@@ -43,11 +43,11 @@ Motivated and detail-oriented student with a strong interest in C++ programming 
 - GitHub
 
 ---
-####Certification
+#### Certification
 
 - C++
 
--Python
+- Python
 ---
 #### Strength
 
