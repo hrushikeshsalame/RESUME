@@ -2,14 +2,14 @@
 
 #### Contact Information
 - **Email**:
-[Email](hrushikeshsalame651gmail.com)
+[Email][hrushikeshsalame651gmail.com]
 - **LinkedIn**:
-[LinkedIn Profile]( www.linkedin.com/in/hrushikesh-salame-5b616941b)
+[LinkedIn Profile][www.linkedin.com/in/hrushikesh-salame-5b616941b]
 
 
 
 ---
-###Career Objective
+### Career Objective
 
 Motivated and detail-oriented student with a strong interest in C++ programming and software development. Seeking opportunities to apply technical knowledge, develop practical skills, and contribute to meaningful projects while continuously enhancing problem-solving and programming abilities.
 
