@@ -57,8 +57,8 @@ Motivated and detail-oriented student with a strong interest in C++ programming 
 
 - Strong communication skill
 
--Logical thinking
+- Logical thinking
 
--Problem solving ability
+- Problem solving ability
 ----
 
