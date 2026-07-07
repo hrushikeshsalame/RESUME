@@ -2,7 +2,7 @@
 
 #### Contact Information
 - **Email**:
-[email](hrushikeshsalame651gmail.com)
+[hrushikeshsalame651gmail.com]
 - **LinkedIn**:
   [www.linkedin.com/in/hrushikesh-salame-5b616941b]
 
