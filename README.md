@@ -28,34 +28,34 @@ Motivated and detail-oriented student with a strong interest in C++ programming 
 
 - Python
 
--C++
+- C++
 
--Object-Oriented programming (OOP)
+- Object-Oriented programming (OOP)
 
--Data Structure and algorithm(basic)
+- Data Structure and algorithm(basic)
 
--Problem Solving
+- Problem Solving
 
--Microsoft word, Excel , Advance Excel and Powerpoint
+- Microsoft word, Excel , Advance Excel and Powerpoint
 
--Databases:-My SQL
+- Databases:-My SQL
 
--GitHub
+- GitHub
 
 ---
 ####Certification
 
--C++
+- C++
 
 -Python
 ---
 #### Strength
 
--Quick learner
+- Quick learner
 
--Team  Player
+- Team  Player
 
--Strong communication skill
+- Strong communication skill
 
 -Logical thinking
 
