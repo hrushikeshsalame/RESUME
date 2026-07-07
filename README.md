@@ -4,7 +4,7 @@
 - **Email**:
 [Email] (hrushikeshsalame651gmail.com)
 - **LinkedIn**:
-- [LinkedIn Profile](https://www.linkedin.com/in/hrushikesh-salame-5b616941b])
+[LinkedIn Profile](https://www.linkedin.com/in/hrushikesh-salame-5b616941b])
 
 
 
